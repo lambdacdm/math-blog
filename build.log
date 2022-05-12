@@ -1,0 +1,3 @@
+Messages from application of c:\users\lixia\anaconda3\lib\site-packages\pretext\static\xsl\pretext-html.xsl:
+MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+             located within: "section_clarkbar_lecture_2" (xml:id), "Clark Barwick Wednesday Lecture 2" (title)
